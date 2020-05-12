@@ -1,0 +1,11 @@
+C:\Users\etherscan\source\repos\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\etherscan\source\repos\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\etherscan\source\repos\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\etherscan\source\repos\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\etherscan\source\repos\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\etherscan\source\repos\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\etherscan\source\repos\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\etherscan\source\repos\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\etherscan\source\repos\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\etherscan\source\repos\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\etherscan\source\repos\WindowsApp2\obj\Debug\WindowsApp2.pdb
